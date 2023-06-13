@@ -707,7 +707,7 @@ section {
   padding: 15px;
   transition: 0.3s;
   color: #111111;
-  border-radius: 0;
+  border-radius: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
